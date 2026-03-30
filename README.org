@@ -1,0 +1,56 @@
+#+title: soncli.mcs -- SON CLI Moduled Command Services
+#+DATE: <2024-02-19 Mon 16:27>
+#+AUTHOR: Mohsen BANAN
+#+OPTIONS: toc:4
+
+#+BEGIN: b:org:pypi:readme/topControls :pkgName "csPlayer" :comment "basic"
+
+# TopControls don't apply to pypi.org documentation.
+
+#+END:
+
+
+* Overview
+
+An After Market Nokia EdenNET SON Modules Player
+
+
+
+* Table of Contents     :TOC:
+- [[#overview][Overview]]
+- [[#pdf-presentation-format][PDF Presentation Format]]
+- [[#video-at-youtube][Video at youtube]]
+
+* PDF Presentation Format
+
+./presentation
+
+* Video at youtube
+
+Address comes here
+
+# ###+BEGIN: blee:bxPanel:footerOrgParams :panelType "readme"
+#+STARTUP: overview
+#+STARTUP: lognotestate
+#+STARTUP: inlineimages
+#+SEQ_TODO: TODO WAITING DELEGATED | DONE DEFERRED CANCELLED
+#+TAGS: @desk(d) @home(h) @work(w) @withInternet(i) @road(r) call(c) errand(e)
+#+CATEGORY: L:README
+
+# ###+END:
+
+# ###+BEGIN: blee:bxPanel:footerEmacsParams :primMode "org-mode" :panelType "readme"
+# Local Variables:
+# eval: (setq-local toc-org-max-depth 4)
+# eval: (setq-local ~selectedSubject "noSubject")
+# eval: (setq-local ~primaryMajorMode 'org-mode)
+# eval: (setq-local ~blee:panelUpdater nil)
+# eval: (setq-local ~blee:dblockEnabler nil)
+# eval: (setq-local ~blee:dblockController "interactive")
+# eval: (img-link-overlays)
+# eval: (set-fill-column 115)
+# eval: (blee:fill-column-indicator/enable)
+# eval: (bx:load-file:ifOneExists "./panelActions.el")
+# End:
+
+# ###+END
